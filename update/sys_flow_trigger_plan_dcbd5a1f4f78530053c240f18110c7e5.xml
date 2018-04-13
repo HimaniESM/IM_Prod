@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
+        <plan/>
+        <plan_id>090cd61b4f78530053c240f18110c75b</plan_id>
+        <snapshot>667d96fc6fc51700d69dc8c17c3ee4de</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>Sushil_Kumar</sys_created_by>
+        <sys_created_on>2018-03-17 19:01:19</sys_created_on>
+        <sys_id>dcbd5a1f4f78530053c240f18110c7e5</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>10bd5a1f4f78530053c240f18110c7e4</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_dcbd5a1f4f78530053c240f18110c7e5</sys_update_name>
+        <sys_updated_by>Sushil_Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-22 10:51:16</sys_updated_on>
+        <trigger display_value="">10bd5a1f4f78530053c240f18110c7e4</trigger>
+    </sys_flow_trigger_plan>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>x_infte_esm_it_inc_missing_ci_name</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Sushil_Kumar</sys_created_by>
+        <sys_created_on>2018-03-17 16:57:20</sys_created_on>
+        <sys_id>6c21ca5f4f38530053c240f18110c728</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_infte_esm_it_inc_missing_ci_name</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_ui_policy_action_6c21ca5f4f38530053c240f18110c728</sys_update_name>
+        <sys_updated_by>Sushil_Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-17 16:57:20</sys_updated_on>
+        <table>incident</table>
+        <ui_policy display_value="Making CI name and CI description visible on selecting missing CI (ESM)">61ffb91f4f38530053c240f18110c7e2</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

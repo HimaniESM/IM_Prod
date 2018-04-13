@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Confirm that browser blocks submission of 'Incident' form to server when clicking UI Action 'Reopen Incident'.</description>
+        <display_name>Click a UI Action</display_name>
+        <inputs/>
+        <order>22</order>
+        <step_config display_value="Click a UI Action">0f4a128297202200abe4bb7503ac4af0</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit_Kumar</sys_created_by>
+        <sys_created_on>2018-03-22 08:07:29</sys_created_on>
+        <sys_id>dff7f9306f851700d69dc8c17c3ee4ad</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Click a UI Action</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_atf_step_dff7f9306f851700d69dc8c17c3ee4ad</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-27 11:31:59</sys_updated_on>
+        <table>incident</table>
+        <test display_value="Incident Management -2">b2f779306f851700d69dc8c17c3ee485</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=dff7f9306f851700d69dc8c17c3ee4ad"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>dff7f9306f851700d69dc8c17c3ee4ad</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit_Kumar</sys_created_by>
+        <sys_created_on>2018-03-22 08:07:29</sys_created_on>
+        <sys_id>1ff7f9306f851700d69dc8c17c3ee4ae</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit_Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-22 08:08:24</sys_updated_on>
+        <value>f18bb9336fb49300d69dc8c17c3ee4df</value>
+        <variable display_value="">7c5f6d2353e0220002c6435723dc34f6</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>dff7f9306f851700d69dc8c17c3ee4ad</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit_Kumar</sys_created_by>
+        <sys_created_on>2018-03-22 08:07:29</sys_created_on>
+        <sys_id>5bf7f9306f851700d69dc8c17c3ee4ae</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit_Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-22 10:25:53</sys_updated_on>
+        <value>form_submission_canceled_in_browser</value>
+        <variable display_value="">7600f16353e0220002c6435723dc34d5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>dff7f9306f851700d69dc8c17c3ee4ad</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit_Kumar</sys_created_by>
+        <sys_created_on>2018-03-22 08:07:29</sys_created_on>
+        <sys_id>dff7f9306f851700d69dc8c17c3ee4ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit_Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-22 08:07:29</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">3eee292353e0220002c6435723dc343c</variable>
+    </sys_variable_value>
+</record_update>

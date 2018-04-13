@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Incident task creation if missing CI is true</description>
+        <label_cache>[{"name":"Created or Updated_1.current.x_infte_esm_it_inc_ci_description","label":"Trigger➛Incident Record➛CI Description","reference":"","reference_display":"CI Description","type":"string","base_type":"string","parent_table_name":"incident","column_name":"x_infte_esm_it_inc_ci_description"},{"name":"Created or Updated_1.current","label":"Trigger➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.x_infte_esm_it_inc_missing_ci_name","label":"Trigger➛Incident Record➛Missing CI Name","reference":"","reference_display":"Missing CI Name","type":"string","base_type":"string","parent_table_name":"incident","column_name":"x_infte_esm_it_inc_missing_ci_name"}]</label_cache>
+        <latest_snapshot display_value="Task creation if missing CI is true (ESM)">667d96fc6fc51700d69dc8c17c3ee4de</latest_snapshot>
+        <name>Task creation if missing CI is true (ESM)</name>
+        <show_draft_actions>false</show_draft_actions>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>Sushil_Kumar</sys_created_by>
+        <sys_created_on>2018-03-17 18:54:00</sys_created_on>
+        <sys_id>090cd61b4f78530053c240f18110c75b</sys_id>
+        <sys_mod_count>19</sys_mod_count>
+        <sys_name>Task creation if missing CI is true (ESM)</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_hub_flow_090cd61b4f78530053c240f18110c75b</sys_update_name>
+        <sys_updated_by>Sushil_Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-22 10:51:16</sys_updated_on>
+    </sys_hub_flow>
+</record_update>

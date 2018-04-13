@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA New Tab">e6324f226f19df00d69dc8c17c3ee450</canvas_page>
+        <name>New Tab</name>
+        <page display_value="PA New Tab">62324f226f19df00d69dc8c17c3ee450</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>Aniesh_Myneni</sys_created_by>
+        <sys_created_on>2018-04-09 10:16:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ee324f226f19df00d69dc8c17c3ee451</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>pa_tabs_ee324f226f19df00d69dc8c17c3ee451</sys_update_name>
+        <sys_updated_by>Aniesh_Myneni</sys_updated_by>
+        <sys_updated_on>2018-04-09 10:16:54</sys_updated_on>
+    </pa_tabs>
+</record_update>

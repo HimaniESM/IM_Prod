@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c0aed25f4f78530053c240f18110c752</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="cmdb_ci_service">
+    <cmdb_ci_service action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <busines_criticality>2 - somewhat critical</busines_criticality>
+        <can_print>false</can_print>
+        <category>Business Service</category>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer/>
+        <model_id display_value="Unknown">e8aaeb3f3763100044e0bfc8bcbe5d20</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>ESMcafe ATF CI(Don't Delete)</name>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <parent/>
+        <po_number/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <service_classification>Business Service</service_classification>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <sla/>
+        <start_date/>
+        <subcategory>Service</subcategory>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_service</sys_class_name>
+        <sys_class_path>/!!/#B</sys_class_path>
+        <sys_created_by>Sushil_Kumar</sys_created_by>
+        <sys_created_on>2018-03-17 19:05:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c0aed25f4f78530053c240f18110c752</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-27 10:46:14</sys_updated_on>
+        <unverified>false</unverified>
+        <used_for>Production</used_for>
+        <user_group/>
+        <vendor/>
+        <version/>
+        <warranty_expiration/>
+    </cmdb_ci_service>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sushil Kumar</sys_created_by>
+        <sys_created_on>2018-03-27 10:46:22</sys_created_on>
+        <sys_id>674c88a64f89d70053c240f18110c7e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ESMcafe ATF CI(Don't Delete)</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_metadata_link_674c88a64f89d70053c240f18110c7e1</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-27 10:46:22</sys_updated_on>
+        <tablename>cmdb_ci</tablename>
+    </sys_metadata_link>
+</record_update>

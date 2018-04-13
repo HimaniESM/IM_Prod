@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="incident_alert" version="2" view="RPT481ed5f3eb300100eac006a2f206fe95">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="259f0b2e6f19df00d69dc8c17c3ee4fa">219f0b2e6f19df00d69dc8c17c3ee4fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_id>a99f0b2e6f19df00d69dc8c17c3ee4fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="259f0b2e6f19df00d69dc8c17c3ee4fa">219f0b2e6f19df00d69dc8c17c3ee4fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_id>219f0b2e6f19df00d69dc8c17c3ee4fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>event_type</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="259f0b2e6f19df00d69dc8c17c3ee4fa">219f0b2e6f19df00d69dc8c17c3ee4fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_id>a19f0b2e6f19df00d69dc8c17c3ee4fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>severity</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="259f0b2e6f19df00d69dc8c17c3ee4fa">219f0b2e6f19df00d69dc8c17c3ee4fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_id>259f0b2e6f19df00d69dc8c17c3ee4fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="259f0b2e6f19df00d69dc8c17c3ee4fa">219f0b2e6f19df00d69dc8c17c3ee4fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_id>a59f0b2e6f19df00d69dc8c17c3ee4fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="259f0b2e6f19df00d69dc8c17c3ee4fa">219f0b2e6f19df00d69dc8c17c3ee4fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_id>299f0b2e6f19df00d69dc8c17c3ee4fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>estd_disruption_time</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="259f0b2e6f19df00d69dc8c17c3ee4fa">219f0b2e6f19df00d69dc8c17c3ee4fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_id>a99f0b2e6f19df00d69dc8c17c3ee4fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>source_incident</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="259f0b2e6f19df00d69dc8c17c3ee4fa">219f0b2e6f19df00d69dc8c17c3ee4fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_id>2d9f0b2e6f19df00d69dc8c17c3ee4fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>source_incident.assigned_to</element>
+            <list_id display_value="incident_alert" element="NULL" name="incident_alert" parent="NULL" relationship="NULL" sys_domain="global" view="259f0b2e6f19df00d69dc8c17c3ee4fa">219f0b2e6f19df00d69dc8c17c3ee4fb</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_id>ad9f0b2e6f19df00d69dc8c17c3ee4fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>incident_alert</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>Manjeet_kumar</sys_created_by>
+            <sys_created_on>2018-04-09 11:15:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>219f0b2e6f19df00d69dc8c17c3ee4fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>incident_alert</sys_name>
+            <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+            <sys_update_name>sys_ui_list_incident_alert_RPT481ed5f3eb300100eac006a2f206fe95</sys_update_name>
+            <sys_updated_by>Manjeet_kumar</sys_updated_by>
+            <sys_updated_on>2018-04-09 11:15:15</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt481ed5f3eb300100eac006a2f206fe95" name="RPT481ed5f3eb300100eac006a2f206fe95">259f0b2e6f19df00d69dc8c17c3ee4fa</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

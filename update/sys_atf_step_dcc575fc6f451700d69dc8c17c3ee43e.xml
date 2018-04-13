@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Set the values on the form as follows:
+Assigned to = ESM_ITIL_USER</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <order>9</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit_Kumar</sys_created_by>
+        <sys_created_on>2018-03-22 07:58:04</sys_created_on>
+        <sys_id>dcc575fc6f451700d69dc8c17c3ee43e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_atf_step_dcc575fc6f451700d69dc8c17c3ee43e</sys_update_name>
+        <sys_updated_by>Sushil Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-27 11:12:11</sys_updated_on>
+        <table>incident</table>
+        <test display_value="Incident Management -1">34b43dbc6f451700d69dc8c17c3ee4d8</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=dcc575fc6f451700d69dc8c17c3ee43e"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>dcc575fc6f451700d69dc8c17c3ee43e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit_Kumar</sys_created_by>
+        <sys_created_on>2018-03-22 07:58:04</sys_created_on>
+        <sys_id>a5d5f5fc6f451700d69dc8c17c3ee401</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit_Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-22 07:58:04</sys_updated_on>
+        <value>assigned_to=e1536eae4f70130053c240f18110c731^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>dcc575fc6f451700d69dc8c17c3ee43e</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit_Kumar</sys_created_by>
+        <sys_created_on>2018-03-22 07:58:04</sys_created_on>
+        <sys_id>e1d5f5fc6f451700d69dc8c17c3ee401</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit_Kumar</sys_updated_by>
+        <sys_updated_on>2018-03-22 07:58:04</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+</record_update>

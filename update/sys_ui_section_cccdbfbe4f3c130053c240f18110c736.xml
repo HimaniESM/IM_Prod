@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Vendor Information" section_id="cccdbfbe4f3c130053c240f18110c736" sys_domain="global" table="incident" version="3" view="itil">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:48:19</sys_created_on>
+            <sys_id>fabe7bfe4f3c130053c240f18110c74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor Information" display_value="Vendor Information" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">cccdbfbe4f3c130053c240f18110c736</sys_ui_section>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:48:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_infte_esm_it_inc_vendor_name.name</element>
+            <position>1</position>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:48:19</sys_created_on>
+            <sys_id>7ebe7bfe4f3c130053c240f18110c74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor Information" display_value="Vendor Information" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">cccdbfbe4f3c130053c240f18110c736</sys_ui_section>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:48:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_infte_esm_it_inc_vendor_name.phone</element>
+            <position>2</position>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:48:19</sys_created_on>
+            <sys_id>febe7bfe4f3c130053c240f18110c74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor Information" display_value="Vendor Information" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">cccdbfbe4f3c130053c240f18110c736</sys_ui_section>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:48:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_infte_esm_it_inc_vendor_name.vendor_manager</element>
+            <position>3</position>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:48:19</sys_created_on>
+            <sys_id>72be7bfe4f3c130053c240f18110c750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor Information" display_value="Vendor Information" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">cccdbfbe4f3c130053c240f18110c736</sys_ui_section>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:48:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:48:19</sys_created_on>
+            <sys_id>f2be7bfe4f3c130053c240f18110c750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor Information" display_value="Vendor Information" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">cccdbfbe4f3c130053c240f18110c736</sys_ui_section>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:48:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_infte_esm_it_inc_vendor_name.fax_phone</element>
+            <position>5</position>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:48:19</sys_created_on>
+            <sys_id>76be7bfe4f3c130053c240f18110c750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor Information" display_value="Vendor Information" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">cccdbfbe4f3c130053c240f18110c736</sys_ui_section>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:48:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_infte_esm_it_inc_vendor_name.rank_tier</element>
+            <position>6</position>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:48:19</sys_created_on>
+            <sys_id>f6be7bfe4f3c130053c240f18110c750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor Information" display_value="Vendor Information" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">cccdbfbe4f3c130053c240f18110c736</sys_ui_section>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:48:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>x_infte_esm_it_inc_vendor_name.website</element>
+            <position>7</position>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:48:19</sys_created_on>
+            <sys_id>7abe7bfe4f3c130053c240f18110c750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor Information" display_value="Vendor Information" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">cccdbfbe4f3c130053c240f18110c736</sys_ui_section>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:48:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:48:19</sys_created_on>
+            <sys_id>fabe7bfe4f3c130053c240f18110c750</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vendor Information" display_value="Vendor Information" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">cccdbfbe4f3c130053c240f18110c736</sys_ui_section>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:48:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Vendor Information</caption>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Sushil_Kumar</sys_created_by>
+            <sys_created_on>2018-03-16 12:44:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cccdbfbe4f3c130053c240f18110c736</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Vendor Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+            <sys_update_name>sys_ui_section_cccdbfbe4f3c130053c240f18110c736</sys_update_name>
+            <sys_updated_by>Sushil_Kumar</sys_updated_by>
+            <sys_updated_on>2018-03-16 12:44:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="ITIL" name="itil">796211e40a0a0b8c000318214be196f0</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
