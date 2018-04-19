@@ -4,42 +4,56 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>caused_by</element>
             <position>0</position>
-            <sys_created_by>Sushil_Kumar</sys_created_by>
-            <sys_created_on>2018-03-16 12:40:51</sys_created_on>
-            <sys_id>9d0d77be4f3c130053c240f18110c78c</sys_id>
+            <sys_created_by>Suganya_Nagarajan</sys_created_by>
+            <sys_created_on>2018-04-19 09:34:12</sys_created_on>
+            <sys_id>62589e394f61974053c240f18110c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">ddec3bbe4f3c130053c240f18110c7a7</sys_ui_section>
-            <sys_updated_by>Sushil_Kumar</sys_updated_by>
-            <sys_updated_on>2018-03-16 12:40:51</sys_updated_on>
+            <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+            <sys_updated_on>2018-04-19 09:34:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>rfc</element>
             <position>1</position>
-            <sys_created_by>Sushil_Kumar</sys_created_by>
-            <sys_created_on>2018-03-16 12:40:51</sys_created_on>
-            <sys_id>110d77be4f3c130053c240f18110c78d</sys_id>
+            <sys_created_by>Suganya_Nagarajan</sys_created_by>
+            <sys_created_on>2018-04-19 09:34:12</sys_created_on>
+            <sys_id>6a589e394f61974053c240f18110c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">ddec3bbe4f3c130053c240f18110c7a7</sys_ui_section>
-            <sys_updated_by>Sushil_Kumar</sys_updated_by>
-            <sys_updated_on>2018-03-16 12:40:51</sys_updated_on>
+            <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+            <sys_updated_on>2018-04-19 09:34:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>problem_id</element>
+            <element>.split</element>
             <position>2</position>
-            <sys_created_by>Sushil_Kumar</sys_created_by>
-            <sys_created_on>2018-03-16 12:40:51</sys_created_on>
-            <sys_id>910d77be4f3c130053c240f18110c78d</sys_id>
+            <sys_created_by>Suganya_Nagarajan</sys_created_by>
+            <sys_created_on>2018-04-19 09:34:12</sys_created_on>
+            <sys_id>ea589e394f61974053c240f18110c7e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">ddec3bbe4f3c130053c240f18110c7a7</sys_ui_section>
-            <sys_updated_by>Sushil_Kumar</sys_updated_by>
-            <sys_updated_on>2018-03-16 12:40:51</sys_updated_on>
+            <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+            <sys_updated_on>2018-04-19 09:34:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>problem_id</element>
+            <position>3</position>
+            <sys_created_by>Suganya_Nagarajan</sys_created_by>
+            <sys_created_on>2018-04-19 09:34:12</sys_created_on>
+            <sys_id>6e589e394f61974053c240f18110c7e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="incident" sys_domain="global" view="796211e40a0a0b8c000318214be196f0">ddec3bbe4f3c130053c240f18110c7a7</sys_ui_section>
+            <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+            <sys_updated_on>2018-04-19 09:34:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
