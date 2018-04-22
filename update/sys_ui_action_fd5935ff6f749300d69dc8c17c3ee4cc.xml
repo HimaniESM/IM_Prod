@@ -23,13 +23,19 @@
         <name>Withdraw</name>
         <onclick/>
         <order>101</order>
-        <script><![CDATA[current.state = 8;
+        <script><![CDATA[//Code that runs without 'onclick'
+//Ensure call to server-side function with no browser errors
+if (typeof window == 'undefined')
+	serverWithdraw();
+
+function serverWithdraw(){
+current.state = 8;
 current.incident_state = 8;
 current.close_code = "Incident Withdrawn";
 current.close_notes = "Incident Withdrawn";
 current.comments = "Incident Withdrawn by " + current.caller_id.first_name;
 current.update();
-action.setRedirectURL(current);]]></script>
+action.setRedirectURL(current);}]]></script>
         <show_insert>false</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
@@ -40,15 +46,15 @@ action.setRedirectURL(current);]]></script>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fd5935ff6f749300d69dc8c17c3ee4cc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Withdraw</sys_name>
         <sys_overrides/>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_ui_action_fd5935ff6f749300d69dc8c17c3ee4cc</sys_update_name>
-        <sys_updated_by>Sushil_Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-19 05:40:36</sys_updated_on>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-04-20 05:49:11</sys_updated_on>
         <table>incident</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
