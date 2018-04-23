@@ -8,7 +8,7 @@
         <field>x_infte_esm_it_inc_missing_ci</field>
         <global>true</global>
         <messages/>
-        <name>Making Field Manadatory (ESM)</name>
+        <name>Esm_OnChange_MakeFieldMandatory</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
    if (isLoading || newValue === '') {
@@ -24,7 +24,6 @@
 		g_form.setMandatory('x_infte_esm_it_inc_ci_description',false);
 	}
 
-   //Type appropriate comment here, and begin script below
    
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -33,15 +32,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>aec302df4f38530053c240f18110c739</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Making Field Manadatory (ESM)</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Esm_OnChange_MakeFieldMandatory</sys_name>
         <sys_overrides/>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_script_client_aec302df4f38530053c240f18110c739</sys_update_name>
-        <sys_updated_by>Sushil Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-19 12:10:54</sys_updated_on>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-23 05:17:10</sys_updated_on>
         <table>incident</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
