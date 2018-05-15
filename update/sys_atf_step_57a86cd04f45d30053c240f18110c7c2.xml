@@ -4,6 +4,7 @@
         <active>true</active>
         <description>Confirm that the following fields are visible: Missing CI Name, CI Description
 Confirm that the following fields are mandatory: Missing CI Name, CI Description
+Confirm that the following fields are not mandatory: Missing CI
 With a failure timeout of 5 Seconds</description>
         <display_name>Field State Validation</display_name>
         <inputs/>
@@ -13,14 +14,14 @@ With a failure timeout of 5 Seconds</description>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-20 13:04:24</sys_created_on>
         <sys_id>57a86cd04f45d30053c240f18110c7c2</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Field State Validation</sys_name>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_atf_step_57a86cd04f45d30053c240f18110c7c2</sys_update_name>
-        <sys_updated_by>Sushil Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-27 11:34:53</sys_updated_on>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-26 10:53:19</sys_updated_on>
         <table>incident</table>
         <test display_value="Incident Management -4">dc27ec904f45d30053c240f18110c703</test>
         <timeout>1970-01-01 00:00:05</timeout>
@@ -62,10 +63,10 @@ With a failure timeout of 5 Seconds</description>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-20 13:04:24</sys_created_on>
         <sys_id>51c86cd04f45d30053c240f18110c734</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Amit_Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-20 13:04:24</sys_updated_on>
-        <value/>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-26 10:53:19</sys_updated_on>
+        <value>x_infte_esm_it_inc_missing_ci</value>
         <variable display_value="">787a9b535320220002c6435723dc3455</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
