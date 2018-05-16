@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_hub_flow">
-    <sys_hub_flow action="INSERT_OR_UPDATE">
-        <active>false</active>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
         <description/>
         <label_cache>[{"name":"Created or Updated_1.current.parent","label":"Trigger➛Incident Task Record➛Parent","reference":"task","reference_display":"Parent","type":"reference","base_type":"reference","parent_table_name":"incident_task","column_name":"parent"},{"name":"Created or Updated_1.current.incident","label":"Trigger➛Incident Task Record➛Incident","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference","parent_table_name":"incident_task","column_name":"incident"},{"name":"1b49ad50-5d52-42a8-931a-b394e0467ea6.Record","label":"1➛Incident Record","reference":"incident","reference_display":"Incident","type":"reference","base_type":"reference"}]</label_cache>
-        <latest_snapshot display_value="Incident Task Validation 2.1 (ESM)">b57afce66f86d780d69dc8c17c3ee4fa</latest_snapshot>
         <name>Incident Task Validation 2.1 (ESM)</name>
-        <show_draft_actions>false</show_draft_actions>
+        <parent_flow display_value="Incident Task Validation 2.1 (ESM)">639a81b24f451b0053c240f18110c7e9</parent_flow>
         <status>published</status>
-        <sys_class_name>sys_hub_flow</sys_class_name>
-        <sys_created_by>Sushil Kumar</sys_created_by>
-        <sys_created_on>2018-03-28 09:57:05</sys_created_on>
-        <sys_id>639a81b24f451b0053c240f18110c7e9</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>Suganya_Nagarajan</sys_created_by>
+        <sys_created_on>2018-05-16 07:10:49</sys_created_on>
+        <sys_id>b57afce66f86d780d69dc8c17c3ee4fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Incident Task Validation 2.1 (ESM)</sys_name>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
-        <sys_update_name>sys_hub_flow_639a81b24f451b0053c240f18110c7e9</sys_update_name>
+        <sys_update_name>sys_hub_flow_snapshot_b57afce66f86d780d69dc8c17c3ee4fa</sys_update_name>
         <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-05-16 12:34:51</sys_updated_on>
-    </sys_hub_flow>
+        <sys_updated_on>2018-05-16 07:10:49</sys_updated_on>
+    </sys_hub_flow_snapshot>
 </record_update>
