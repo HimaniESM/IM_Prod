@@ -7,26 +7,27 @@ Short description = Check the worlflow to Re-open an Incident
 and Contact type = Email
 and Configuration item = ESMcafe ATF CI(Don't Delete)
 and Business service = ESMcafe ATF CI(Don't Delete)
-and Caller = ESM_ITIL_USER
+and Caller = {{Step 2: Impersonate.User}}
 and Location = California
 and Preferred Contact = Email
 and Category = Hardware</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
-        <order>3</order>
+        <inputs/>
+        <order>4</order>
         <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-22 08:07:27</sys_created_on>
         <sys_id>bef7f9306f851700d69dc8c17c3ee44d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_atf_step_bef7f9306f851700d69dc8c17c3ee44d</sys_update_name>
-        <sys_updated_by>Sushil Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-27 11:30:41</sys_updated_on>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-11 10:14:32</sys_updated_on>
         <table>incident</table>
         <test display_value="Incident Management -2">b2f779306f851700d69dc8c17c3ee485</test>
         <timeout/>
@@ -40,10 +41,10 @@ and Category = Hardware</description>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-22 08:07:27</sys_created_on>
         <sys_id>07f7f9306f851700d69dc8c17c3ee44f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>Sushil Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-27 11:30:41</sys_updated_on>
-        <value>short_description=Check the worlflow to Re-open an Incident^contact_type=email^cmdb_ci=c0aed25f4f78530053c240f18110c752^business_service=c0aed25f4f78530053c240f18110c752^caller_id=e1536eae4f70130053c240f18110c731^location=f03dc1f037d0200044e0bfc8bcbe5d29^x_infte_esm_it_inc_preffered_contact=email^category=hardware^EQ</value>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-11 10:14:32</sys_updated_on>
+        <value>short_description=Check the worlflow to Re-open an Incident^contact_type=email^cmdb_ci=c0aed25f4f78530053c240f18110c752^business_service=c0aed25f4f78530053c240f18110c752^caller_id={{step['faf779306f851700d69dc8c17c3ee487'].user}}^location=f03dc1f037d0200044e0bfc8bcbe5d29^x_infte_esm_it_inc_preffered_contact=email^category=hardware^EQ</value>
         <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -60,4 +61,17 @@ and Category = Hardware</description>
         <value>incident</value>
         <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
     </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=bef7f9306f851700d69dc8c17c3ee44d"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>bef7f9306f851700d69dc8c17c3ee44d</id>
+        <sys_created_by>Amit_Kumar</sys_created_by>
+        <sys_created_on>2018-03-22 08:42:24</sys_created_on>
+        <sys_id>4bff71b46f851700d69dc8c17c3ee4fa</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-11 10:14:32</sys_updated_on>
+        <table>var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e</table>
+        <value>short_description=Check the worlflow to Re-open an Incident^contact_type=email^cmdb_ci=c0aed25f4f78530053c240f18110c752^business_service=c0aed25f4f78530053c240f18110c752^caller_id={{step['faf779306f851700d69dc8c17c3ee487'].user}}^location=f03dc1f037d0200044e0bfc8bcbe5d29^x_infte_esm_it_inc_preffered_contact=email^category=hardware^EQ</value>
+    </sys_element_mapping>
 </record_update>

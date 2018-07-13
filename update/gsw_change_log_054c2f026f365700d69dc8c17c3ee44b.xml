@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2018-06-21 13:37:46</change_date>
+        <changed_by display_value="Kevin_Domadia">37b38aea6fb01300d69dc8c17c3ee443</changed_by>
+        <content display_value="Enforce Strong Passwords">8989a7af11232200964f016bcc1bddd7</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>Kevin_Domadia</sys_created_by>
+        <sys_created_on>2018-06-21 13:37:46</sys_created_on>
+        <sys_id>054c2f026f365700d69dc8c17c3ee44b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2018-06-21 13:37:46</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>gsw_change_log_054c2f026f365700d69dc8c17c3ee44b</sys_update_name>
+        <sys_updated_by>Kevin_Domadia</sys_updated_by>
+        <sys_updated_on>2018-06-21 13:37:46</sys_updated_on>
+        <type>1</type>
+    </gsw_change_log>
+</record_update>

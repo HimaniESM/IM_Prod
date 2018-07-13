@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <description>Set the values on the form as follows:
 Resolution code = Solved (Permanently)
-and Resolution notes = Solved Permanently</description>
+and Resolution notes = Solved Permanently
+and Additional comments = Solved Permanently</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
         <order>18</order>
@@ -13,14 +14,14 @@ and Resolution notes = Solved Permanently</description>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-22 08:03:20</sys_created_on>
         <sys_id>d7d6bdfc6f451700d69dc8c17c3ee433</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_atf_step_d7d6bdfc6f451700d69dc8c17c3ee433</sys_update_name>
-        <sys_updated_by>Sushil Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-27 11:12:11</sys_updated_on>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-13 09:20:45</sys_updated_on>
         <table>incident</table>
         <test display_value="Incident Management -1">34b43dbc6f451700d69dc8c17c3ee4d8</test>
         <timeout/>
@@ -34,10 +35,10 @@ and Resolution notes = Solved Permanently</description>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-22 08:03:21</sys_created_on>
         <sys_id>7e0771306f851700d69dc8c17c3ee470</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>Amit_Kumar</sys_updated_by>
-        <sys_updated_on>2018-03-22 08:03:21</sys_updated_on>
-        <value>close_code=Solved (Permanently)^close_notes=Solved Permanently^EQ</value>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-06-11 11:57:16</sys_updated_on>
+        <value>close_code=Solved (Permanently)^close_notes=Solved Permanently^comments=Solved Permanently^EQ</value>
         <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">

@@ -21,6 +21,10 @@
 	else{
 		g_form.setSectionDisplay('resolution_information',false);
 	}
+	
+	if(newValue != 3){
+		g_form.setValue('hold_reason','');
+	}
 
    
 }]]></script>
@@ -30,7 +34,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5d910af46f851700d69dc8c17c3ee480</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Esm_OnChange_MakeClosureSectVisible</sys_name>
         <sys_overrides/>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
@@ -38,7 +42,7 @@
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_script_client_5d910af46f851700d69dc8c17c3ee480</sys_update_name>
         <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-23 13:13:02</sys_updated_on>
+        <sys_updated_on>2018-05-21 08:30:16</sys_updated_on>
         <table>incident</table>
         <type>onChange</type>
         <ui_type>10</ui_type>

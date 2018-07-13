@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="email_client=true,query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="80" text_index="true" type="collection">
+    <element attributes="email_client=true,query_hints=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="134" text_index="true" type="collection">
         <element label="Alternate Contact" max_length="40" name="x_infte_esm_it_inc_alternate_contact" type="boolean"/>
         <element label="CI Description" max_length="40" name="x_infte_esm_it_inc_ci_description" type="string"/>
         <element label="Contact Number" max_length="40" name="x_infte_esm_it_inc_contact_number" type="phone_number_e164"/>
