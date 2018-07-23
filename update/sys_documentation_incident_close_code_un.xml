@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="close_code" label="Resolution code" language="un" table="incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>close_code</element>
+            <help/>
+            <hint/>
+            <label>Resolution code</label>
+            <language>un</language>
+            <name>incident</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Suganya_Nagarajan</sys_created_by>
+            <sys_created_on>2018-07-19 06:15:06</sys_created_on>
+            <sys_id>2d735a4f4f1f1b4053c240f18110c77d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Resolution code</sys_name>
+            <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+            <sys_update_name>sys_documentation_incident_close_code_un</sys_update_name>
+            <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
+            <sys_updated_on>2018-07-19 06:15:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

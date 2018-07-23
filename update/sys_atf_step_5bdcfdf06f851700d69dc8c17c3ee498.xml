@@ -7,20 +7,20 @@ Vendor Name = Test
 and Vendor Ticket Number = V12345</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
-        <order>26</order>
+        <order>28</order>
         <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-22 08:29:25</sys_created_on>
         <sys_id>5bdcfdf06f851700d69dc8c17c3ee498</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_atf_step_5bdcfdf06f851700d69dc8c17c3ee498</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-06-11 05:07:38</sys_updated_on>
+        <sys_updated_on>2018-07-18 08:35:01</sys_updated_on>
         <table>incident</table>
         <test display_value="Incident Management -3">a398fd306f851700d69dc8c17c3ee456</test>
         <timeout/>

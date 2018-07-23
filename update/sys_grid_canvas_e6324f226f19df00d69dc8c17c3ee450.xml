@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="sys_grid_canvas" unload_date="2018-07-13 09:28:18">
+<record_update node_type="sys_grid_canvas" unload_date="2018-07-23 06:30:24">
     <sys_grid_canvas action="INSERT_OR_UPDATE">
-        <legacy_page display_value="PA New Tab">62324f226f19df00d69dc8c17c3ee450</legacy_page>
+        <legacy_page/>
         <name>PA New Tab</name>
         <sys_class_name>sys_grid_canvas</sys_class_name>
         <sys_created_by>Aniesh_Myneni</sys_created_by>

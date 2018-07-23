@@ -41,7 +41,8 @@
         <message_html><![CDATA[<p><strong>Dear ${caller_id.first_name},</strong></p>
 <p><strong>we're happy to inform you that your issue has been resolved&nbsp;</strong><strong>Successfully. &nbsp; </strong></p>
 <p><strong>Please check the incident</strong><strong>&nbsp;information here ${URI_REF}.</strong></p>
-<p><strong>Please &nbsp;<a style="color: #ff6600;" title="TAKE A SURVEY" href="https://infosysdemosvs6.service-now.com/nav_to.do?uri=%2Fassessment_take2.do%3Fsysparm_assessable_type%3D87186844d7211100158ba6859e610378" target="_blank">Take a survey</a>&nbsp; to help us serve you more better.</strong></p>
+<p><strong>Please &nbsp;<a style="color: #ff6600;" title="TAKE A SURVEY" href="https://infosysdemosvs6.service-now.com/nav_to.do?uri=%2Fassessment_take2.do%3Fsysparm_assessable_type%3D87186844d7211100158ba6859e610378" target="_blank">Take a survey</a>&nbsp; to help us serve you more <span style="background-color: #ffffff;">better.</span></strong></p>
+<p><strong>${mail_script:incident_reopen_script}</strong></p>
 <p>&nbsp;</p>]]></message_html>
         <message_list/>
         <message_text/>
@@ -64,15 +65,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>91884cdc6fc1d300d69dc8c17c3ee4ac</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Incident Resolved </sys_name>
         <sys_overrides/>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sysevent_email_action_91884cdc6fc1d300d69dc8c17c3ee4ac</sys_update_name>
-        <sys_updated_by>Manjeet_kumar</sys_updated_by>
-        <sys_updated_on>2018-03-20 10:46:21</sys_updated_on>
+        <sys_updated_by>Sumanth.Ravilla</sys_updated_by>
+        <sys_updated_on>2018-07-19 11:40:50</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Incident Template">8bae63846fc1d300d69dc8c17c3ee441</template>
         <type>email</type>

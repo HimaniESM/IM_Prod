@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-07-23 06:30:15">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles>itil</read_roles>
+        <roles>admin</roles>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>Manjeet_kumar</sys_created_by>
+        <sys_created_on>2018-07-19 06:43:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>37e91ac34f5f1b4053c240f18110c7ef</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Configuration Manager Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_portal_page_37e91ac34f5f1b4053c240f18110c7ef</sys_update_name>
+        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+        <sys_updated_on>2018-07-19 06:56:03</sys_updated_on>
+        <title>Configuration Manager Dashboard</title>
+        <user/>
+        <view/>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>2</offset>
+                <page display_value="Configuration Manager Dashboard">37e91ac34f5f1b4053c240f18110c7ef</page>
+                <summary/>
+                <sys_created_by>Manjeet_kumar</sys_created_by>
+                <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                <sys_id>236c12874f5f1b4053c240f18110c7bd</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7bd</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>236c12874f5f1b4053c240f18110c7be</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7bd</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>276c12874f5f1b4053c240f18110c7be</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7bd</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2b6c12874f5f1b4053c240f18110c7bd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7bd</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2b6c12874f5f1b4053c240f18110c7be</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>Top problems by configuration items </value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7bd</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2f6c12874f5f1b4053c240f18110c7bd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7bd</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>a36c12874f5f1b4053c240f18110c7bd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>85999efe6f17d740d69dc8c17c3ee461</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7bd</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>af6c12874f5f1b4053c240f18110c7be</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>37e91ac34f5f1b4053c240f18110c7ef</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone999</dropzone>
+                <offset>0</offset>
+                <page display_value="Configuration Manager Dashboard">37e91ac34f5f1b4053c240f18110c7ef</page>
+                <summary/>
+                <sys_created_by>Manjeet_kumar</sys_created_by>
+                <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                <sys_id>236c12874f5f1b4053c240f18110c7c6</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7c6</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>236c12874f5f1b4053c240f18110c7c7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7c6</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>276c12874f5f1b4053c240f18110c7c7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7c6</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2b6c12874f5f1b4053c240f18110c7c6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7c6</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2b6c12874f5f1b4053c240f18110c7c7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>All Active configuration items count by CI type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7c6</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2f6c12874f5f1b4053c240f18110c7c6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7c6</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>a36c12874f5f1b4053c240f18110c7c6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>16f856fe6f17d740d69dc8c17c3ee4bc</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">236c12874f5f1b4053c240f18110c7c6</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>af6c12874f5f1b4053c240f18110c7c7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>37e91ac34f5f1b4053c240f18110c7ef</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="Configuration Manager Dashboard">37e91ac34f5f1b4053c240f18110c7ef</page>
+                <summary/>
+                <sys_created_by>Manjeet_kumar</sys_created_by>
+                <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                <sys_id>276c12874f5f1b4053c240f18110c7bf</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">276c12874f5f1b4053c240f18110c7bf</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>236c12874f5f1b4053c240f18110c7c0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">276c12874f5f1b4053c240f18110c7bf</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>276c12874f5f1b4053c240f18110c7c0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">276c12874f5f1b4053c240f18110c7bf</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2b6c12874f5f1b4053c240f18110c7c0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">276c12874f5f1b4053c240f18110c7bf</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2f6c12874f5f1b4053c240f18110c7bf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">276c12874f5f1b4053c240f18110c7bf</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2f6c12874f5f1b4053c240f18110c7c0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>Open changes by configuration item types </value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">276c12874f5f1b4053c240f18110c7bf</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>a36c12874f5f1b4053c240f18110c7c1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>37e91ac34f5f1b4053c240f18110c7ef</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">276c12874f5f1b4053c240f18110c7bf</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>a76c12874f5f1b4053c240f18110c7bf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>f88a96326f57d740d69dc8c17c3ee49c</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="Configuration Manager Dashboard">37e91ac34f5f1b4053c240f18110c7ef</page>
+                <summary/>
+                <sys_created_by>Manjeet_kumar</sys_created_by>
+                <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                <sys_id>2b6c12874f5f1b4053c240f18110c7b8</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7b8</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>236c12874f5f1b4053c240f18110c7b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7b8</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>236c12874f5f1b4053c240f18110c7ba</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>New Ci's introduced by CI type – weekly / monthly </value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7b8</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>276c12874f5f1b4053c240f18110c7b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7b8</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2b6c12874f5f1b4053c240f18110c7b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7b8</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2f6c12874f5f1b4053c240f18110c7b9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>trend</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7b8</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>a76c12874f5f1b4053c240f18110c7ba</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>37e91ac34f5f1b4053c240f18110c7ef</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7b8</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>ab6c12874f5f1b4053c240f18110c7b8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>856026f66f57d740d69dc8c17c3ee427</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="Configuration Manager Dashboard">37e91ac34f5f1b4053c240f18110c7ef</page>
+                <summary/>
+                <sys_created_by>Manjeet_kumar</sys_created_by>
+                <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                <sys_id>2b6c12874f5f1b4053c240f18110c7c1</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7c1</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>236c12874f5f1b4053c240f18110c7c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7c1</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>236c12874f5f1b4053c240f18110c7c3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>Measure accuracy of CMDB by tracking missing CI tasks last 3 months – trend </value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7c1</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>276c12874f5f1b4053c240f18110c7c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7c1</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2b6c12874f5f1b4053c240f18110c7c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7c1</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2f6c12874f5f1b4053c240f18110c7c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>trend</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7c1</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>a76c12874f5f1b4053c240f18110c7c3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>37e91ac34f5f1b4053c240f18110c7ef</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2b6c12874f5f1b4053c240f18110c7c1</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>ab6c12874f5f1b4053c240f18110c7c1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>63d02af66f57d740d69dc8c17c3ee482</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="Configuration Manager Dashboard">37e91ac34f5f1b4053c240f18110c7ef</page>
+                <summary/>
+                <sys_created_by>Manjeet_kumar</sys_created_by>
+                <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                <sys_id>2f6c12874f5f1b4053c240f18110c7ba</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7ba</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>236c12874f5f1b4053c240f18110c7bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7ba</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>276c12874f5f1b4053c240f18110c7bb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7ba</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>276c12874f5f1b4053c240f18110c7bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>Top Changes by configuration items </value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7ba</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2b6c12874f5f1b4053c240f18110c7bb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7ba</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2f6c12874f5f1b4053c240f18110c7bb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7ba</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>ab6c12874f5f1b4053c240f18110c7bc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>37e91ac34f5f1b4053c240f18110c7ef</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7ba</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>af6c12874f5f1b4053c240f18110c7ba</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>190a12326f57d740d69dc8c17c3ee434</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>2</offset>
+                <page display_value="Configuration Manager Dashboard">37e91ac34f5f1b4053c240f18110c7ef</page>
+                <summary/>
+                <sys_created_by>Manjeet_kumar</sys_created_by>
+                <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                <sys_id>2f6c12874f5f1b4053c240f18110c7c3</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7c3</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>236c12874f5f1b4053c240f18110c7c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>trend</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7c3</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>276c12874f5f1b4053c240f18110c7c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7c3</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>276c12874f5f1b4053c240f18110c7c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>Emergency change trend by CI's in last 3 months </value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7c3</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2b6c12874f5f1b4053c240f18110c7c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7c3</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>2f6c12874f5f1b4053c240f18110c7c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7c3</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>ab6c12874f5f1b4053c240f18110c7c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>37e91ac34f5f1b4053c240f18110c7ef</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-07-18 23:54:17">2f6c12874f5f1b4053c240f18110c7c3</portal_section>
+                        <sys_created_by>Manjeet_kumar</sys_created_by>
+                        <sys_created_on>2018-07-19 06:54:17</sys_created_on>
+                        <sys_id>af6c12874f5f1b4053c240f18110c7c3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+                        <sys_updated_on>2018-07-19 06:54:17</sys_updated_on>
+                        <value>2a5f56b66f57d740d69dc8c17c3ee48b</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_translated">
+    <sys_translated action="INSERT_OR_UPDATE">
+        <element>title</element>
+        <id/>
+        <label>Incident Manager Snapshot</label>
+        <language>un</language>
+        <name>sys_portal_page</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>Sumanth.Ravilla</sys_created_by>
+        <sys_created_on>2018-07-18 08:43:32</sys_created_on>
+        <sys_id>cadbed326fd3d740d69dc8c17c3ee43a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Manager Snapshot</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_translated_cadbed326fd3d740d69dc8c17c3ee43a</sys_update_name>
+        <sys_updated_by>Sumanth.Ravilla</sys_updated_by>
+        <sys_updated_on>2018-07-18 08:43:32</sys_updated_on>
+        <value>My  Incident Manager Snapshot</value>
+    </sys_translated>
+</record_update>

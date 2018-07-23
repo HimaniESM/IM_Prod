@@ -9,24 +9,25 @@ and Configuration item = ESMcafe ATF CI(Don't Delete)
 and Business service = ESMcafe ATF CI(Don't Delete)
 and Caller = {{Step 2: Impersonate.User}}
 and Preferred Contact = Email
-and Category = Hardware</description>
+and Category = Hardware
+and Problem Candidate = true</description>
         <display_name>Set Field Values</display_name>
         <inputs/>
         <inputs/>
-        <order>5</order>
+        <order>6</order>
         <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-22 08:10:13</sys_created_on>
         <sys_id>eb9871706f851700d69dc8c17c3ee475</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_atf_step_eb9871706f851700d69dc8c17c3ee475</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-06-11 10:15:17</sys_updated_on>
+        <sys_updated_on>2018-07-18 08:35:01</sys_updated_on>
         <table>incident</table>
         <test display_value="Incident Management -3">a398fd306f851700d69dc8c17c3ee456</test>
         <timeout/>
@@ -40,10 +41,10 @@ and Category = Hardware</description>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-22 08:10:13</sys_created_on>
         <sys_id>239871706f851700d69dc8c17c3ee477</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-06-11 10:15:17</sys_updated_on>
-        <value>short_description=Mandatory fiels and Visibility^contact_type=email^cmdb_ci=c0aed25f4f78530053c240f18110c752^business_service=c0aed25f4f78530053c240f18110c752^caller_id={{step['eb98fd306f851700d69dc8c17c3ee458'].user}}^x_infte_esm_it_inc_preffered_contact=email^category=hardware^EQ</value>
+        <sys_updated_on>2018-07-16 10:33:43</sys_updated_on>
+        <value>short_description=Mandatory fiels and Visibility^contact_type=email^cmdb_ci=c0aed25f4f78530053c240f18110c752^business_service=c0aed25f4f78530053c240f18110c752^caller_id={{step['eb98fd306f851700d69dc8c17c3ee458'].user}}^x_infte_esm_it_inc_preffered_contact=email^category=hardware^x_infte_esm_it_pro_problem_candidate=true^EQ</value>
         <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -67,10 +68,10 @@ and Category = Hardware</description>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-22 08:17:26</sys_created_on>
         <sys_id>d94a31b06f851700d69dc8c17c3ee43e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-06-11 10:15:17</sys_updated_on>
+        <sys_updated_on>2018-07-16 10:33:43</sys_updated_on>
         <table>var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e</table>
-        <value>short_description=Mandatory fiels and Visibility^contact_type=email^cmdb_ci=c0aed25f4f78530053c240f18110c752^business_service=c0aed25f4f78530053c240f18110c752^caller_id={{step['eb98fd306f851700d69dc8c17c3ee458'].user}}^x_infte_esm_it_inc_preffered_contact=email^category=hardware^EQ</value>
+        <value>short_description=Mandatory fiels and Visibility^contact_type=email^cmdb_ci=c0aed25f4f78530053c240f18110c752^business_service=c0aed25f4f78530053c240f18110c752^caller_id={{step['eb98fd306f851700d69dc8c17c3ee458'].user}}^x_infte_esm_it_inc_preffered_contact=email^category=hardware^x_infte_esm_it_pro_problem_candidate=true^EQ</value>
     </sys_element_mapping>
 </record_update>

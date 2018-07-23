@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>incident_reopen_script</name>
+        <new_lines_to_html>false</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
+          /* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
+          /* Optional GlideRecord */ event) {
+
+          // Add your code here
+	template.print('Does the solution resolve your issue ? Click <a href="mailto:' + gs.getProperty('glide.email.user')+'?subject=Re: Please Close the incident '+current.number+'">Yes</a> to close the ticket or <a href="mailto:' + gs.getProperty('glide.email.user')+'?subject=Re: Please Reopen the incident '+current.number+'">No</a> to reopen the ticket.');
+
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>Sumanth.Ravilla</sys_created_by>
+        <sys_created_on>2018-07-19 11:37:29</sys_created_on>
+        <sys_id>f3fc9f436f531b40d69dc8c17c3ee49f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>incident_reopen_script</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_script_email_f3fc9f436f531b40d69dc8c17c3ee49f</sys_update_name>
+        <sys_updated_by>Sumanth.Ravilla</sys_updated_by>
+        <sys_updated_on>2018-07-19 11:37:29</sys_updated_on>
+    </sys_script_email>
+</record_update>

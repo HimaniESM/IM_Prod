@@ -9,14 +9,14 @@
         <sys_created_by>Sushil_Kumar</sys_created_by>
         <sys_created_on>2018-03-19 11:12:36</sys_created_on>
         <sys_id>0e950f736f789300d69dc8c17c3ee459</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>28</sys_mod_count>
         <sys_name>record_update</sys_name>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_hub_trigger_instance_0e950f736f789300d69dc8c17c3ee459</sys_update_name>
-        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-05-16 13:27:11</sys_updated_on>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-07-17 13:13:42</sys_updated_on>
         <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -45,10 +45,10 @@
         <sys_created_by>Sushil_Kumar</sys_created_by>
         <sys_created_on>2018-03-19 11:12:36</sys_created_on>
         <sys_id>c2954f736f789300d69dc8c17c3ee4ac</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>Sushil Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-02 13:13:31</sys_updated_on>
-        <value>stateCHANGESTO3</value>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_updated_by>suganya_nagarajan</sys_updated_by>
+        <sys_updated_on>2018-07-17 13:13:37</sys_updated_on>
+        <value>stateCHANGESTO3^ORstateCHANGESTO4^ORstateCHANGESTO7</value>
         <variable display_value="">bb9adea0c31322002841b63b12d3ae67</variable>
     </sys_variable_value>
 </record_update>
