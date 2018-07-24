@@ -7,8 +7,8 @@
         <comments/>
         <condition>current.incident_state != IncidentState.CLOSED &amp;&amp; gs.hasRole("itil") &amp;&amp; gs.fieldExists('incident', 'rfc') &amp;&amp; current.rfc.nil()</condition>
         <form_action>true</form_action>
-        <form_button>true</form_button>
-        <form_context_menu>false</form_context_menu>
+        <form_button>false</form_button>
+        <form_context_menu>true</form_context_menu>
         <form_link>false</form_link>
         <form_style/>
         <hint/>
@@ -23,7 +23,8 @@
         <name>Create Normal Change</name>
         <onclick/>
         <order>100</order>
-        <script><![CDATA[(function(current, previous, gs, action) {
+        <script><![CDATA[//Copied OOB UI Action Normal Change and added additional fields
+(function(current, previous, gs, action) {
 	var changeRequest = global.ChangeRequest.newNormal();
 	changeRequest.setValue("short_description", current.short_description);
 	changeRequest.setValue("description", current.description);
@@ -31,7 +32,7 @@
 	changeRequest.setValue("priority", current.priority);
 	changeRequest.setValue("sys_domain", current.sys_domain);
 	changeRequest.setValue("company", current.company);
-        changeRequest.setValue("parent", current.sys_id);
+    changeRequest.setValue("parent", current.sys_id); //Added Copy Incident Sys ID to Parent Field to enable related list functionality
 	changeRequest.insert();
 	
 	current.rfc = changeRequest.getGlideRecord().getUniqueValue();
@@ -51,15 +52,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cf4efd556f531740d69dc8c17c3ee4a4</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Create Normal Change</sys_name>
         <sys_overrides/>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_ui_action_cf4efd556f531740d69dc8c17c3ee4a4</sys_update_name>
-        <sys_updated_by>Kevin_Domadia</sys_updated_by>
-        <sys_updated_on>2018-07-13 20:20:46</sys_updated_on>
+        <sys_updated_by>Pushkal.Sharma</sys_updated_by>
+        <sys_updated_on>2018-07-23 07:25:04</sys_updated_on>
         <table>incident</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

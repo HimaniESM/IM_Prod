@@ -8,13 +8,13 @@
         <field>x_infte_esm_it_inc_missing_ci</field>
         <global>true</global>
         <messages/>
-        <name>Esm_OnChange_MakeFieldMandatory</name>
+        <name>Esm_OnChange_MakeCIFieldMandatory</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
    if (isLoading || newValue === '') {
       return;
    }
-	// making field mandatory if missing ci is true
+	// making field CI NAME AND CI DESCRIPTION mandatory if missing ci is true
 	if(newValue == 'true'){
 		g_form.setMandatory('x_infte_esm_it_inc_missing_ci_name',true);
 		g_form.setMandatory('x_infte_esm_it_inc_ci_description',true);
@@ -32,15 +32,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>aec302df4f38530053c240f18110c739</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Esm_OnChange_MakeFieldMandatory</sys_name>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Esm_OnChange_MakeCIFieldMandatory</sys_name>
         <sys_overrides/>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_script_client_aec302df4f38530053c240f18110c739</sys_update_name>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-23 05:17:10</sys_updated_on>
+        <sys_updated_by>Pushkal.Sharma</sys_updated_by>
+        <sys_updated_on>2018-07-23 07:58:12</sys_updated_on>
         <table>incident</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
