@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="normalization_tester" name="normalization_tester">1e1ef5550ab3015826999c4a408beada</role>
+        <role display_value="">1e1ef5550ab3015826999c4a408beada</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-07-19 09:40:47</sys_created_on>

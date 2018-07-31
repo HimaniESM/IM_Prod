@@ -2,24 +2,24 @@
 <record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
         <active>true</active>
-        <description>Open the 'itil' view of the 'Incident' form with id '{{Step 32: Submit a Form.Record}}'</description>
+        <description>Open the 'itil' view of the 'Incident' form with id '{{Step 30: Submit a Form.Record}}'</description>
         <display_name>Open an Existing Record</display_name>
         <inputs/>
         <inputs/>
-        <order>33</order>
+        <order>31</order>
         <step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config>
         <sys_class_name>sys_atf_step</sys_class_name>
         <sys_created_by>Amit_Kumar</sys_created_by>
         <sys_created_on>2018-03-22 09:04:29</sys_created_on>
         <sys_id>dbf4ceb86f851700d69dc8c17c3ee45b</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_name>Open an Existing Record</sys_name>
         <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
         <sys_policy/>
         <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
         <sys_update_name>sys_atf_step_dbf4ceb86f851700d69dc8c17c3ee45b</sys_update_name>
-        <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-07-18 08:35:02</sys_updated_on>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 14:26:14</sys_updated_on>
         <table>incident</table>
         <test display_value="Incident Management -3">a398fd306f851700d69dc8c17c3ee456</test>
         <timeout/>

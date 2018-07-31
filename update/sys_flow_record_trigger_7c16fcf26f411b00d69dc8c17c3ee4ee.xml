@@ -2,7 +2,7 @@
 <record_update table="sys_flow_record_trigger">
     <sys_flow_record_trigger action="INSERT_OR_UPDATE">
         <active>true</active>
-        <condition table="incident_task">assignment_group!=a2ccd21f4f78530053c240f18110c753^state!=3<item display_table="sys_user_group" display_value="Configuration Manager" endquery="false" field="assignment_group" goto="false" newquery="false" operator="!=" or="false" value="a2ccd21f4f78530053c240f18110c753"/>
+        <condition table="incident_task">assignment_group!=a2ccd21f4f78530053c240f18110c753^state!=3<item endquery="false" field="assignment_group" goto="false" newquery="false" operator="!=" or="false" value="a2ccd21f4f78530053c240f18110c753"/>
             <item endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="3"/>
         </condition>
         <name/>

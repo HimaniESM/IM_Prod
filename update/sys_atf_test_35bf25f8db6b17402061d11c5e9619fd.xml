@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Priority field value validation</description>
+        <name>Incident Management - 10</name>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-24 14:08:17</sys_created_on>
+        <sys_id>35bf25f8db6b17402061d11c5e9619fd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Incident Management - 10</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_atf_test_35bf25f8db6b17402061d11c5e9619fd</sys_update_name>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 14:08:43</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=35bf25f8db6b17402061d11c5e9619fd"/>
+</record_update>

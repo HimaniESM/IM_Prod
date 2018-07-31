@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order>10</order>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-24 14:38:40</sys_created_on>
+        <sys_id>f0a6f5f8db2bd7409e19323b7c9619c9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>5eae44e04f0dd30053c240f18110c750</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_f0a6f5f8db2bd7409e19323b7c9619c9</sys_update_name>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 14:38:51</sys_updated_on>
+        <test display_value="Incident Management - 10">35bf25f8db6b17402061d11c5e9619fd</test>
+        <test_suite display_value="Incident Management">5eae44e04f0dd30053c240f18110c750</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>

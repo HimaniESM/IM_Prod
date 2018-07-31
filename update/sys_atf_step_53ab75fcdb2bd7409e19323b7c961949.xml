@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Open the 'itil' view of the 'Incident Task' form with id '{{Step 7: Submit a Form.Record}}'</description>
+        <display_name>Open an Existing Record</display_name>
+        <inputs/>
+        <inputs/>
+        <order>8</order>
+        <step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-24 15:00:52</sys_created_on>
+        <sys_id>53ab75fcdb2bd7409e19323b7c961949</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Open an Existing Record</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_atf_step_53ab75fcdb2bd7409e19323b7c961949</sys_update_name>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 15:06:41</sys_updated_on>
+        <table>incident_task</table>
+        <test display_value="Incident management - 11">ab8f2534db2bd7409e19323b7c9619d2</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=53ab75fcdb2bd7409e19323b7c961949"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>53ab75fcdb2bd7409e19323b7c961949</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-24 15:00:52</sys_created_on>
+        <sys_id>04cbb5fcdb2bd7409e19323b7c961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 15:00:52</sys_updated_on>
+        <value/>
+        <variable display_value="">ad351a4e53a0220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>53ab75fcdb2bd7409e19323b7c961949</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-24 15:00:52</sys_created_on>
+        <sys_id>88cbb5fcdb2bd7409e19323b7c961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 15:00:52</sys_updated_on>
+        <value>incident_task</value>
+        <variable display_value="">b124164e53a0220002c6435723dc34c5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>53ab75fcdb2bd7409e19323b7c961949</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-24 15:00:52</sys_created_on>
+        <sys_id>c4cbb5fcdb2bd7409e19323b7c961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 15:00:52</sys_updated_on>
+        <value>itil</value>
+        <variable display_value="">6e55da4e53a0220002c6435723dc34a0</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=53ab75fcdb2bd7409e19323b7c961949"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record_id</field>
+        <id>53ab75fcdb2bd7409e19323b7c961949</id>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-24 15:00:52</sys_created_on>
+        <sys_id>cccbb5fcdb2bd7409e19323b7c96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 15:00:52</sys_updated_on>
+        <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
+        <value>{{step['dd9bb5fcdb2bd7409e19323b7c961937'].record_id}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>view</field>
+        <id>53ab75fcdb2bd7409e19323b7c961949</id>
+        <sys_created_by>Amit.Kumar</sys_created_by>
+        <sys_created_on>2018-07-24 15:00:52</sys_created_on>
+        <sys_id>80cbb5fcdb2bd7409e19323b7c961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Amit.Kumar</sys_updated_by>
+        <sys_updated_on>2018-07-24 15:00:52</sys_updated_on>
+        <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

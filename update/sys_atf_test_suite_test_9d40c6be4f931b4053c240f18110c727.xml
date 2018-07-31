@@ -15,7 +15,7 @@
         <sys_update_name>sys_atf_test_suite_test_9d40c6be4f931b4053c240f18110c727</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
         <sys_updated_on>2018-07-18 10:12:46</sys_updated_on>
-        <test display_value="SRSClientFunctions Script Include test (ESM)">962cf4834fad1b4053c240f18110c7e4</test>
+        <test display_value="">962cf4834fad1b4053c240f18110c7e4</test>
         <test_suite display_value="Catalogue item">9120c6326f17d740d69dc8c17c3ee4e3</test_suite>
     </sys_atf_test_suite_test>
 </record_update>

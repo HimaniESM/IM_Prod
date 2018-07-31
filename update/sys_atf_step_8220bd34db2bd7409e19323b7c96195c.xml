@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Open the 'itil' view of a new 'Incident Task' form</description>
+        <display_name>Open a New Form</display_name>
+        <inputs/>
+        <order>3</order>
+        <step_config display_value="Open a New Form">05317cd10b10220050192f15d6673af8</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>Kevin.Domadia</sys_created_by>
+        <sys_created_on>2018-07-24 14:11:12</sys_created_on>
+        <sys_id>8220bd34db2bd7409e19323b7c96195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a New Form</sys_name>
+        <sys_package display_value="ESM IT Incident Management" source="x_infte_esm_it_inc">c029077e4fb8130053c240f18110c7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ESM IT Incident Management">c029077e4fb8130053c240f18110c7cd</sys_scope>
+        <sys_update_name>sys_atf_step_8220bd34db2bd7409e19323b7c96195c</sys_update_name>
+        <sys_updated_by>Kevin.Domadia</sys_updated_by>
+        <sys_updated_on>2018-07-24 14:11:12</sys_updated_on>
+        <table>incident_task</table>
+        <test display_value="Incident management - 11">ab8f2534db2bd7409e19323b7c9619d2</test>
+        <timeout/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=8220bd34db2bd7409e19323b7c96195c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8220bd34db2bd7409e19323b7c96195c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Kevin.Domadia</sys_created_by>
+        <sys_created_on>2018-07-24 14:11:12</sys_created_on>
+        <sys_id>a4603174db2bd7409e19323b7c9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin.Domadia</sys_updated_by>
+        <sys_updated_on>2018-07-24 14:11:12</sys_updated_on>
+        <value>incident_task</value>
+        <variable display_value="">bb84ed825320220002c6435723dc3400</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8220bd34db2bd7409e19323b7c96195c</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>Kevin.Domadia</sys_created_by>
+        <sys_created_on>2018-07-24 14:11:12</sys_created_on>
+        <sys_id>e0603174db2bd7409e19323b7c9619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Kevin.Domadia</sys_updated_by>
+        <sys_updated_on>2018-07-24 14:11:12</sys_updated_on>
+        <value>itil</value>
+        <variable display_value="">27d4e1c25320220002c6435723dc3486</variable>
+    </sys_variable_value>
+</record_update>

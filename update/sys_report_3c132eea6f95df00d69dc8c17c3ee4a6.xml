@@ -25,7 +25,7 @@
         <column>active</column>
         <compute_percent>aggregate</compute_percent>
         <content/>
-        <created_by_user display_value="Manjeet_kumar">3ab10aaa6fb01300d69dc8c17c3ee459</created_by_user>
+        <created_by_user display_value="">3ab10aaa6fb01300d69dc8c17c3ee459</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
         <custom_config/>
@@ -40,9 +40,7 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field>active</field>
         <field_list/>
-        <filter table="incident">major_incident_state=proposed^ORmajor_incident_state=accepted<item endquery="false" field="major_incident_state" goto="false" newquery="false" operator="=" or="false" value="proposed"/>
-            <item endquery="false" field="major_incident_state" goto="false" newquery="false" operator="=" or="true" value="accepted"/>
-        </filter>
+        <filter table="incident">major_incident_state=proposed^ORmajor_incident_state=accepted</filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
         <gauge_autoscale>true</gauge_autoscale>
